@@ -10,6 +10,7 @@ for i in range(5):
     print(f"from main thread: {i}")
     sleep(1)
     
+    
 '''
 from child thread: 0
 from main thread: 0
