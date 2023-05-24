@@ -2,7 +2,7 @@
 
 import openai
 # ключ из личного кабинета openai
-openai.api_key = "sk-95Ez2Z1rtgegrRTFFDSTVTdsdfsgdv3422kjhLghnh53QiT8F"
+openai.api_key = "...."
 messages = []
 while True:
     message = input("User: ")   # вводим сообщение
